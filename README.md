@@ -1,6 +1,6 @@
 <h2>border</h2>
 
-<a href=""><img src="border-dis.png"></a>
+<a href=""><img src="borderweb-dis.png"></a>
 
 <h2>cafe</h2>
 
